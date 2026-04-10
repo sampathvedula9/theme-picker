@@ -1,0 +1,21 @@
+{
+  "name": "Summit",
+  "id": "summit",
+  "description": "Summit \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#4c3c87",
+    "bg_dark": "#3f2f7a",
+    "bg_alt": "#584893",
+    "fg": "#cf614d",
+    "fg_dim": "#6c4b6d",
+    "accent": "#d43e5c",
+    "red": "#d43e5c",
+    "green": "#d43e5c",
+    "yellow": "#d43e5c",
+    "blue": "#d43e5c",
+    "orange": "#d43e5c",
+    "pink": "#d43e5c",
+    "purple": "#d43e5c",
+    "cyan": "#d43e5c"
+  }
+}

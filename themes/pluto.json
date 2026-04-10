@@ -1,0 +1,21 @@
+{
+  "name": "Pluto",
+  "id": "pluto",
+  "description": "Pluto \u2014 icy blue, distant grey, deep space",
+  "palette": {
+    "bg": "#0b0c10",
+    "bg_dark": "#000000",
+    "bg_alt": "#1f2833",
+    "fg": "#c5c6c7",
+    "fg_dim": "#2e3440",
+    "accent": "#ebcb8b",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#ebcb8b",
+    "orange": "#ebcb8b",
+    "pink": "#b48ead",
+    "purple": "#ebcb8b",
+    "cyan": "#ebcb8b"
+  }
+}

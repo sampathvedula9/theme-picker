@@ -1,0 +1,21 @@
+{
+  "name": "Nord Frost",
+  "id": "nord-frost",
+  "description": "Nord Frost \u2014 icy blue dominance, frost palette as primary accents",
+  "palette": {
+    "bg": "#2e3440",
+    "bg_dark": "#070d19",
+    "bg_alt": "#81a1c1",
+    "fg": "#8fbcbb",
+    "fg_dim": "#81a1c1",
+    "accent": "#88c0d0",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#81a1c1",
+    "orange": "#88c0d0",
+    "pink": "#b48ead",
+    "purple": "#88c0d0",
+    "cyan": "#88c0d0"
+  }
+}

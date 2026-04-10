@@ -1,0 +1,21 @@
+{
+  "name": "Dracul",
+  "id": "dracul",
+  "description": "Dracul \u2014 official Dracula palette: draculatheme.com",
+  "palette": {
+    "bg": "#282a36",
+    "bg_dark": "#1b1d29",
+    "bg_alt": "#3c3e4a",
+    "fg": "#f8f8f2",
+    "fg_dim": "#6272a4",
+    "accent": "#bd93f9",
+    "red": "#ff5555",
+    "green": "#50fa7b",
+    "yellow": "#f1fa8c",
+    "blue": "#bd93f9",
+    "orange": "#ffb86c",
+    "pink": "#ff79c6",
+    "purple": "#bd93f9",
+    "cyan": "#8be9fd"
+  }
+}

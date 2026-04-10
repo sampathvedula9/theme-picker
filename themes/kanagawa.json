@@ -1,0 +1,21 @@
+{
+  "name": "Kanagawa",
+  "id": "kanagawa",
+  "description": "Kanagawa \u2014 feudal blue, ink grey, dragon red",
+  "palette": {
+    "bg": "#1f1f28",
+    "bg_dark": "#000001",
+    "bg_alt": "#957fb8",
+    "fg": "#dcd7ba",
+    "fg_dim": "#54546d",
+    "accent": "#7e9cd8",
+    "red": "#c34043",
+    "green": "#76946a",
+    "yellow": "#c0a36e",
+    "blue": "#7e9cd8",
+    "orange": "#7e9cd8",
+    "pink": "#7e9cd8",
+    "purple": "#957fb8",
+    "cyan": "#7e9cd8"
+  }
+}

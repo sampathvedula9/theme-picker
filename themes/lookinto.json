@@ -1,0 +1,21 @@
+{
+  "name": "Lookinto",
+  "id": "lookinto",
+  "description": "Lookintoo \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#232323",
+    "bg_dark": "#161616",
+    "bg_alt": "#2f2f2f",
+    "fg": "#939393",
+    "fg_dim": "#3e3e3e",
+    "accent": "#434343",
+    "red": "#434343",
+    "green": "#434343",
+    "yellow": "#434343",
+    "blue": "#434343",
+    "orange": "#434343",
+    "pink": "#434343",
+    "purple": "#434343",
+    "cyan": "#434343"
+  }
+}

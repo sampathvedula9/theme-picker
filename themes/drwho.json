@@ -1,0 +1,21 @@
+{
+  "name": "Drwho",
+  "id": "drwho",
+  "description": "Drwho \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#061130",
+    "bg_dark": "#000423",
+    "bg_alt": "#121d3c",
+    "fg": "#4facdd",
+    "fg_dim": "#273448",
+    "accent": "#ad40b7",
+    "red": "#ad40b7",
+    "green": "#ad40b7",
+    "yellow": "#ad40b7",
+    "blue": "#445cb5",
+    "orange": "#ad40b7",
+    "pink": "#9b1873",
+    "purple": "#ad40b7",
+    "cyan": "#ad40b7"
+  }
+}

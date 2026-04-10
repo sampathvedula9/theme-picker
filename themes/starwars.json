@@ -1,0 +1,21 @@
+{
+  "name": "Starwars",
+  "id": "starwars",
+  "description": "Starwars \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#1e212b",
+    "bg_dark": "#11141e",
+    "bg_alt": "#2a2d37",
+    "fg": "#ced1d0",
+    "fg_dim": "#393f50",
+    "accent": "#68728d",
+    "red": "#68728d",
+    "green": "#68728d",
+    "yellow": "#eaeae0",
+    "blue": "#68728d",
+    "orange": "#68728d",
+    "pink": "#68728d",
+    "purple": "#68728d",
+    "cyan": "#68728d"
+  }
+}

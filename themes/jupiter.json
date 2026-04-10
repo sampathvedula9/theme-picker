@@ -1,0 +1,21 @@
+{
+  "name": "Jupiter",
+  "id": "jupiter",
+  "description": "Jupiter \u2014 stormy orange, banded cream, cloud white",
+  "palette": {
+    "bg": "#1e1a17",
+    "bg_dark": "#000000",
+    "bg_alt": "#c8b6a6",
+    "fg": "#f6e9d7",
+    "fg_dim": "#a6907c",
+    "accent": "#e5c07b",
+    "red": "#e06c75",
+    "green": "#b5cea8",
+    "yellow": "#e5c07b",
+    "blue": "#e5c07b",
+    "orange": "#d19a66",
+    "pink": "#e5c07b",
+    "purple": "#c678dd",
+    "cyan": "#e5c07b"
+  }
+}

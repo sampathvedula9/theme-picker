@@ -1,0 +1,21 @@
+{
+  "name": "Dragon",
+  "id": "dragon",
+  "description": "Dragon \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#361647",
+    "bg_dark": "#29093a",
+    "bg_alt": "#422253",
+    "fg": "#f1d2d3",
+    "fg_dim": "#c73a47",
+    "accent": "#f7a64f",
+    "red": "#f6a1aa",
+    "green": "#f7a64f",
+    "yellow": "#f7a64f",
+    "blue": "#f7a64f",
+    "orange": "#f7a64f",
+    "pink": "#f2a6d5",
+    "purple": "#f7a64f",
+    "cyan": "#f7a64f"
+  }
+}

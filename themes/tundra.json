@@ -1,0 +1,21 @@
+{
+  "name": "Tundra",
+  "id": "tundra",
+  "description": "Tundra \u2014 frozen slate, arctic moss, ice white",
+  "palette": {
+    "bg": "#111827",
+    "bg_dark": "#040b1a",
+    "bg_alt": "#1e2534",
+    "fg": "#abb2bf",
+    "fg_dim": "#3e4554",
+    "accent": "#e8d4b0",
+    "red": "#fca5a5",
+    "green": "#b5e8b0",
+    "yellow": "#e8d4b0",
+    "blue": "#e8d4b0",
+    "orange": "#fbc19d",
+    "pink": "#e8d4b0",
+    "purple": "#e8d4b0",
+    "cyan": "#e8d4b0"
+  }
+}

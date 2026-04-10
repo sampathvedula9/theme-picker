@@ -1,0 +1,21 @@
+{
+  "name": "OneDark",
+  "id": "onedark",
+  "description": "One Dark — Atom charcoal, muted blue, soft green",
+  "palette": {
+    "bg": "#1e222a",
+    "bg_dark": "#181a1f",
+    "bg_alt": "#2e323a",
+    "fg": "#abb2bf",
+    "fg_dim": "#545862",
+    "accent": "#61afef",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#61afef",
+    "orange": "#d19a66",
+    "pink": "#c678dd",
+    "purple": "#c678dd",
+    "cyan": "#56b6c2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Saturn",
+  "id": "saturn",
+  "description": "Saturn \u2014 golden rings, amber haze, pale cream",
+  "palette": {
+    "bg": "#16161a",
+    "bg_dark": "#000000",
+    "bg_alt": "#7f848e",
+    "fg": "#f2f2f2",
+    "fg_dim": "#a6a9b6",
+    "accent": "#e5c07b",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#e5c07b",
+    "orange": "#d19a66",
+    "pink": "#e5c07b",
+    "purple": "#c678dd",
+    "cyan": "#e5c07b"
+  }
+}

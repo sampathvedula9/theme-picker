@@ -1,0 +1,21 @@
+{
+  "name": "Bright",
+  "id": "bright",
+  "description": "Bright \u2014 warm amber orange from Jupiter wallpaper",
+  "palette": {
+    "bg": "#de996b",
+    "bg_dark": "#d18c5e",
+    "bg_alt": "#eaa577",
+    "fg": "#6c3232",
+    "fg_dim": "#090d15",
+    "accent": "#944a39",
+    "red": "#cc0000",
+    "green": "#006600",
+    "yellow": "#944a39",
+    "blue": "#0044cc",
+    "orange": "#993300",
+    "pink": "#990066",
+    "purple": "#6600aa",
+    "cyan": "#006666"
+  }
+}

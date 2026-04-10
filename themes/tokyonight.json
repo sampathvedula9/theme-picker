@@ -1,0 +1,21 @@
+{
+  "name": "Tokyonight",
+  "id": "tokyonight",
+  "description": "Tokyo Night \u2014 neon purple, midnight blue, cyber pink",
+  "palette": {
+    "bg": "#1a1b26",
+    "bg_dark": "#0d0e19",
+    "bg_alt": "#24283b",
+    "fg": "#a9b1d6",
+    "fg_dim": "#414868",
+    "accent": "#e0af68",
+    "red": "#f7768e",
+    "green": "#9ece6a",
+    "yellow": "#e0af68",
+    "blue": "#e0af68",
+    "orange": "#ff9e64",
+    "pink": "#e0af68",
+    "purple": "#bb9af7",
+    "cyan": "#e0af68"
+  }
+}

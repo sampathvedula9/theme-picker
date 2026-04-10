@@ -1,0 +1,21 @@
+{
+  "name": "Nord",
+  "id": "nord",
+  "description": "Nord \u2014 mix of all four palettes: polar night, snow storm, frost, aurora",
+  "palette": {
+    "bg": "#2e3440",
+    "bg_dark": "#212733",
+    "bg_alt": "#424854",
+    "fg": "#d8dee9",
+    "fg_dim": "#88c0d0",
+    "accent": "#5e81ac",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#81a1c1",
+    "orange": "#5e81ac",
+    "pink": "#b48ead",
+    "purple": "#5e81ac",
+    "cyan": "#88c0d0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Spiderwoman",
+  "id": "spiderwoman",
+  "description": "Spiderwoman \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#100d25",
+    "bg_dark": "#030018",
+    "bg_alt": "#1c1931",
+    "fg": "#add2e3",
+    "fg_dim": "#6d11c8",
+    "accent": "#2852ab",
+    "red": "#2852ab",
+    "green": "#2852ab",
+    "yellow": "#2852ab",
+    "blue": "#506ac1",
+    "orange": "#2852ab",
+    "pink": "#2852ab",
+    "purple": "#a25cbe",
+    "cyan": "#cfe8f0"
+  }
+}

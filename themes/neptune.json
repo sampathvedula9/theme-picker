@@ -1,0 +1,21 @@
+{
+  "name": "Neptune",
+  "id": "neptune",
+  "description": "Neptune \u2014 deep ocean blue, wave teal, seafoam",
+  "palette": {
+    "bg": "#0f172a",
+    "bg_dark": "#000003",
+    "bg_alt": "#64748b",
+    "fg": "#e2e8f0",
+    "fg_dim": "#334155",
+    "accent": "#facc15",
+    "red": "#ef4444",
+    "green": "#22c55e",
+    "yellow": "#facc15",
+    "blue": "#facc15",
+    "orange": "#fb923c",
+    "pink": "#facc15",
+    "purple": "#c084fc",
+    "cyan": "#facc15"
+  }
+}

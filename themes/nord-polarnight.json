@@ -1,0 +1,21 @@
+{
+  "name": "Nord Polarnight",
+  "id": "nord-polarnight",
+  "description": "Nord Polar Night \u2014 deep arctic dark, frost accents, aurora highlights",
+  "palette": {
+    "bg": "#2e3440",
+    "bg_dark": "#070d19",
+    "bg_alt": "#3b4252",
+    "fg": "#88c0d0",
+    "fg_dim": "#4c566a",
+    "accent": "#88c0d0",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#81a1c1",
+    "orange": "#88c0d0",
+    "pink": "#b48ead",
+    "purple": "#88c0d0",
+    "cyan": "#88c0d0"
+  }
+}

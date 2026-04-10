@@ -1,0 +1,21 @@
+{
+  "name": "Rosepine",
+  "id": "rosepine",
+  "description": "Rose Pine \u2014 rose gold, dusty pine, moon glow",
+  "palette": {
+    "bg": "#191724",
+    "bg_dark": "#000000",
+    "bg_alt": "#c4a7e7",
+    "fg": "#e0def4",
+    "fg_dim": "#6e6a86",
+    "accent": "#eb6f92",
+    "red": "#ebbcba",
+    "green": "#eb6f92",
+    "yellow": "#eb6f92",
+    "blue": "#31748f",
+    "orange": "#f6c177",
+    "pink": "#eb6f92",
+    "purple": "#c4a7e7",
+    "cyan": "#9ccfd8"
+  }
+}

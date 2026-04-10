@@ -1,0 +1,21 @@
+{
+  "name": "Tiger",
+  "id": "tiger",
+  "description": "Elephant \u2014 dusty grey, ashen skin, waterhole blue",
+  "palette": {
+    "bg": "#1d1f21",
+    "bg_dark": "#101214",
+    "bg_alt": "#27292b",
+    "fg": "#b2bec3",
+    "fg_dim": "#636e72",
+    "accent": "#6d8ea0",
+    "red": "#6d8ea0",
+    "green": "#6d8ea0",
+    "yellow": "#6d8ea0",
+    "blue": "#6d8ea0",
+    "orange": "#6d8ea0",
+    "pink": "#6d8ea0",
+    "purple": "#8e7ea8",
+    "cyan": "#74b9b9"
+  }
+}

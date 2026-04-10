@@ -1,0 +1,21 @@
+{
+  "name": "Hippo",
+  "id": "hippo",
+  "description": "Hippo \u2014 deep purple, muddy mauve, sunscreen rose",
+  "palette": {
+    "bg": "#17101e",
+    "bg_dark": "#0a0311",
+    "bg_alt": "#1e1428",
+    "fg": "#e8d5f0",
+    "fg_dim": "#5c4870",
+    "accent": "#9b6dbd",
+    "red": "#9b6dbd",
+    "green": "#9b6dbd",
+    "yellow": "#9b6dbd",
+    "blue": "#9b6dbd",
+    "orange": "#9b6dbd",
+    "pink": "#c47898",
+    "purple": "#9b6dbd",
+    "cyan": "#5ab8b8"
+  }
+}

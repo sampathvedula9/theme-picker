@@ -1,0 +1,21 @@
+{
+  "name": "Venom",
+  "id": "venom",
+  "description": "Venom \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#161e2b",
+    "bg_dark": "#09111e",
+    "bg_alt": "#222a37",
+    "fg": "#d7d6d7",
+    "fg_dim": "#333e4c",
+    "accent": "#b7262b",
+    "red": "#c44c50",
+    "green": "#6fb968",
+    "yellow": "#97a13d",
+    "blue": "#8a98df",
+    "orange": "#b7262b",
+    "pink": "#ad4987",
+    "purple": "#b7262b",
+    "cyan": "#b7262b"
+  }
+}

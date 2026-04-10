@@ -1,0 +1,21 @@
+{
+  "name": "Gruvchad",
+  "id": "gruvchad",
+  "description": "Gruvchad \u2014 warm amber, retro brown, golden tan",
+  "palette": {
+    "bg": "#2b3339",
+    "bg_dark": "#1e262c",
+    "bg_alt": "#323c41",
+    "fg": "#abb2bf",
+    "fg_dim": "#465058",
+    "accent": "#dbbc7f",
+    "red": "#e67e80",
+    "green": "#a7c080",
+    "yellow": "#dbbc7f",
+    "blue": "#dbbc7f",
+    "orange": "#e69875",
+    "pink": "#d699b6",
+    "purple": "#dbbc7f",
+    "cyan": "#dbbc7f"
+  }
+}

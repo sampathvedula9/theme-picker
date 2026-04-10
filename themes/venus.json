@@ -1,0 +1,21 @@
+{
+  "name": "Venus",
+  "id": "venus",
+  "description": "Venus \u2014 warm rose, copper gold, dawn peach",
+  "palette": {
+    "bg": "#1a1412",
+    "bg_dark": "#000000",
+    "bg_alt": "#e0c4b7",
+    "fg": "#f5eee6",
+    "fg_dim": "#a38b7b",
+    "accent": "#e5c07b",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#e5c07b",
+    "orange": "#e5c07b",
+    "pink": "#e5c07b",
+    "purple": "#c678dd",
+    "cyan": "#e5c07b"
+  }
+}

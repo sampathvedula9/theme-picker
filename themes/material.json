@@ -1,0 +1,21 @@
+{
+  "name": "Material",
+  "id": "material",
+  "description": "Material \u2014 deep teal, ocean blue, slate grey",
+  "palette": {
+    "bg": "#212121",
+    "bg_dark": "#141414",
+    "bg_alt": "#2d2d2d",
+    "fg": "#eeffff",
+    "fg_dim": "#546e7a",
+    "accent": "#82aaff",
+    "red": "#f07178",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "blue": "#89ddff",
+    "orange": "#82aaff",
+    "pink": "#82aaff",
+    "purple": "#c792ea",
+    "cyan": "#82aaff"
+  }
+}

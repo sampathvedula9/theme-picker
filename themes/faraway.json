@@ -1,0 +1,21 @@
+{
+  "name": "Faraway",
+  "id": "faraway",
+  "description": "Faraway \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#023252",
+    "bg_dark": "#002545",
+    "bg_alt": "#0e3e5e",
+    "fg": "#8db98d",
+    "fg_dim": "#354177",
+    "accent": "#03856f",
+    "red": "#03856f",
+    "green": "#2e906a",
+    "yellow": "#03856f",
+    "blue": "#4b6370",
+    "orange": "#03856f",
+    "pink": "#03856f",
+    "purple": "#03856f",
+    "cyan": "#348c91"
+  }
+}

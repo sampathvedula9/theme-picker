@@ -1,0 +1,21 @@
+{
+  "name": "Catppuccin",
+  "id": "catppuccin",
+  "description": "Catppuccin \u2014 pastel lavender, soft pink, mocha brown",
+  "palette": {
+    "bg": "#1e1d2d",
+    "bg_dark": "#111020",
+    "bg_alt": "#282737",
+    "fg": "#abb2bf",
+    "fg_dim": "#585767",
+    "accent": "#fae3b0",
+    "red": "#fae3b0",
+    "green": "#abe9b3",
+    "yellow": "#fae3b0",
+    "blue": "#fae3b0",
+    "orange": "#f8bd96",
+    "pink": "#f28fad",
+    "purple": "#d5aeea",
+    "cyan": "#fae3b0"
+  }
+}

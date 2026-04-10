@@ -1,0 +1,21 @@
+{
+  "name": "Uranus",
+  "id": "uranus",
+  "description": "Uranus \u2014 cool cyan, misty teal, pale blue",
+  "palette": {
+    "bg": "#0e1b1b",
+    "bg_dark": "#000000",
+    "bg_alt": "#7fbfbf",
+    "fg": "#e0f7f7",
+    "fg_dim": "#3a6e6e",
+    "accent": "#f6e05e",
+    "red": "#fc8181",
+    "green": "#68d391",
+    "yellow": "#f6e05e",
+    "blue": "#f6e05e",
+    "orange": "#f6ad55",
+    "pink": "#f6e05e",
+    "purple": "#d6bcfa",
+    "cyan": "#f6e05e"
+  }
+}

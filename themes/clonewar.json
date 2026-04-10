@@ -1,0 +1,21 @@
+{
+  "name": "Clonewar",
+  "id": "clonewar",
+  "description": "Clonewar \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#100e21",
+    "bg_dark": "#030114",
+    "bg_alt": "#1c1a2d",
+    "fg": "#987989",
+    "fg_dim": "#6d5361",
+    "accent": "#112f48",
+    "red": "#9a5860",
+    "green": "#112f48",
+    "yellow": "#112f48",
+    "blue": "#112f48",
+    "orange": "#112f48",
+    "pink": "#704664",
+    "purple": "#112f48",
+    "cyan": "#112f48"
+  }
+}

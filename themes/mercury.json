@@ -1,0 +1,21 @@
+{
+  "name": "Mercury",
+  "id": "mercury",
+  "description": "Mercury \u2014 cool silver, graphite, quicksilver",
+  "palette": {
+    "bg": "#121212",
+    "bg_dark": "#000000",
+    "bg_alt": "#9e9e9e",
+    "fg": "#e0e0e0",
+    "fg_dim": "#5c5c5c",
+    "accent": "#e5c07b",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#e5c07b",
+    "orange": "#d19a66",
+    "pink": "#e5c07b",
+    "purple": "#c678dd",
+    "cyan": "#e5c07b"
+  }
+}

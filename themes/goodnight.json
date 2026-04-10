@@ -1,0 +1,21 @@
+{
+  "name": "Goodnight",
+  "id": "goodnight",
+  "description": "Goodnight \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#100e1d",
+    "bg_dark": "#030110",
+    "bg_alt": "#1c1a29",
+    "fg": "#cdd6f5",
+    "fg_dim": "#1f1e2e",
+    "accent": "#242434",
+    "red": "#242434",
+    "green": "#242434",
+    "yellow": "#242434",
+    "blue": "#a1a8c3",
+    "orange": "#242434",
+    "pink": "#242434",
+    "purple": "#242434",
+    "cyan": "#242434"
+  }
+}

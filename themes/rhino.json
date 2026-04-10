@@ -1,0 +1,21 @@
+{
+  "name": "Rhino",
+  "id": "rhino",
+  "description": "Rhino \u2014 stone grey, armored olive, acacia sage",
+  "palette": {
+    "bg": "#141816",
+    "bg_dark": "#070b09",
+    "bg_alt": "#1c221d",
+    "fg": "#d0d8c0",
+    "fg_dim": "#4a5445",
+    "accent": "#7a9968",
+    "red": "#7a9968",
+    "green": "#7a9968",
+    "yellow": "#7a9968",
+    "blue": "#7a9968",
+    "orange": "#c89060",
+    "pink": "#7a9968",
+    "purple": "#7a9968",
+    "cyan": "#7a9968"
+  }
+}

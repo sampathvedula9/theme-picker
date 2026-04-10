@@ -1,0 +1,21 @@
+{
+  "name": "Mars",
+  "id": "mars",
+  "description": "Mars \u2014 dusty red, iron rust, arid sand",
+  "palette": {
+    "bg": "#1a0f0f",
+    "bg_dark": "#000000",
+    "bg_alt": "#d9a5a5",
+    "fg": "#f2e9e4",
+    "fg_dim": "#505050",
+    "accent": "#e5c07b",
+    "red": "#ff6b6b",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#e5c07b",
+    "orange": "#d19a66",
+    "pink": "#e5c07b",
+    "purple": "#c678dd",
+    "cyan": "#e5c07b"
+  }
+}

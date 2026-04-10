@@ -1,0 +1,21 @@
+{
+  "name": "Nord Snowstorm",
+  "id": "nord-snowstorm",
+  "description": "Nord Snow Storm \u2014 bright arctic light, polar night text, frost & aurora accents",
+  "palette": {
+    "bg": "#eceff4",
+    "bg_dark": "#d8dee9",
+    "bg_alt": "#d8dee9",
+    "fg": "#5e81ac",
+    "fg_dim": "#3b4252",
+    "accent": "#5e81ac",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#5e81ac",
+    "blue": "#5e81ac",
+    "orange": "#5e81ac",
+    "pink": "#b48ead",
+    "purple": "#5e81ac",
+    "cyan": "#8fbcbb"
+  }
+}

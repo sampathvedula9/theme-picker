@@ -1,0 +1,21 @@
+{
+  "name": "Nord Aurora",
+  "id": "nord-aurora",
+  "description": "Nord Aurora \u2014 warm northern lights, aurora palette as primary accents",
+  "palette": {
+    "bg": "#2e3440",
+    "bg_dark": "#070d19",
+    "bg_alt": "#d08770",
+    "fg": "#ebcb8b",
+    "fg_dim": "#d08770",
+    "accent": "#ebcb8b",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#ebcb8b",
+    "orange": "#ebcb8b",
+    "pink": "#b48ead",
+    "purple": "#ebcb8b",
+    "cyan": "#ebcb8b"
+  }
+}

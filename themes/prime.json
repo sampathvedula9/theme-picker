@@ -1,0 +1,21 @@
+{
+  "name": "Prime",
+  "id": "prime",
+  "description": "Prime \u2014 deep charcoal, electric blue, crisp white",
+  "palette": {
+    "bg": "#1e222a",
+    "bg_dark": "#11151d",
+    "bg_alt": "#2e323a",
+    "fg": "#abb2bf",
+    "fg_dim": "#545862",
+    "accent": "#ebcb8b",
+    "red": "#e06c75",
+    "green": "#7ec7a2",
+    "yellow": "#ebcb8b",
+    "blue": "#ebcb8b",
+    "orange": "#d65e2e",
+    "pink": "#ebcb8b",
+    "purple": "#c678dd",
+    "cyan": "#ebcb8b"
+  }
+}

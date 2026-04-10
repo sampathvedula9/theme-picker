@@ -1,0 +1,21 @@
+{
+  "name": "Buffalo",
+  "id": "buffalo",
+  "description": "Buffalo \u2014 dark chocolate, burnt sienna, red clay",
+  "palette": {
+    "bg": "#120d09",
+    "bg_dark": "#050000",
+    "bg_alt": "#1a1008",
+    "fg": "#f0d0b0",
+    "fg_dim": "#5a3820",
+    "accent": "#c05c20",
+    "red": "#983020",
+    "green": "#c05c20",
+    "yellow": "#c05c20",
+    "blue": "#c05c20",
+    "orange": "#c05c20",
+    "pink": "#c05c20",
+    "purple": "#c05c20",
+    "cyan": "#c05c20"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Solarized",
+  "id": "solarized",
+  "description": "Solarized \u2014 warm tan, solar yellow, bay blue",
+  "palette": {
+    "bg": "#231f20",
+    "bg_dark": "#161213",
+    "bg_alt": "#073642",
+    "fg": "#839496",
+    "fg_dim": "#586e75",
+    "accent": "#268bd2",
+    "red": "#dc322f",
+    "green": "#268bd2",
+    "yellow": "#b58900",
+    "blue": "#6c71c4",
+    "orange": "#268bd2",
+    "pink": "#268bd2",
+    "purple": "#268bd2",
+    "cyan": "#2aa198"
+  }
+}

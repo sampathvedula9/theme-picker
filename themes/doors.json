@@ -1,0 +1,21 @@
+{
+  "name": "Doors",
+  "id": "doors",
+  "description": "Test \u2014 generated from wallpaper",
+  "palette": {
+    "bg": "#18122b",
+    "bg_dark": "#0b051e",
+    "bg_alt": "#241e37",
+    "fg": "#635a85",
+    "fg_dim": "#3a324c",
+    "accent": "#423b67",
+    "red": "#423b67",
+    "green": "#423b67",
+    "yellow": "#423b67",
+    "blue": "#433c68",
+    "orange": "#423b67",
+    "pink": "#423b67",
+    "purple": "#423b67",
+    "cyan": "#423b67"
+  }
+}
